@@ -31,7 +31,7 @@ This Bootstrap 5 Company Profile Website is deployed using GitHub Pages. Follow 
    - You can now access your live website at this URL.
 
 
-Live Project Link: Bootstrap 5 Company Profile Website
+Live Project Link: [Bootstrap 5 Company Profile Website](https://darshanshelar96k.github.io/CodeCrafters/)
 
 ## Usage
 
